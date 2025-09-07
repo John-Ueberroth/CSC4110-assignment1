@@ -11,8 +11,8 @@ using namespace std;
 // where the execution of program begins 
 int main() 
 { 
-    // prints hello world 
-    cout<<"Hello World!"; 
+    // prints testing git merge
+    cout<<"Testing git Merge!"; 
       
     return 0; 
 } 
